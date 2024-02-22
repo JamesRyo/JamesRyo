@@ -14,6 +14,7 @@
 
 Main Skills:
 - AI Bot, Open AI, Machine Learning, Embedding and Finetuning
+- Web3, Truffle, Ethers.js, Ethereum, Solidity, rust, C++
 - React/NextJS, VueJS/NuxtJS, Svelte, Angular
 - NodeJS, NestJS, PHP, Django, Ruby on Rails, ASP.NET
 - MySǪL, MongoDB, DynamoDB. PostgreSǪL
@@ -22,7 +23,7 @@ Main Skills:
 - Tailwind CSS, Vuetify, SCSS
 - Stripe, AWS, GCP, Firebase, CI/CD, ǪA Testing, GraphǪL, Docker, Git, Jira, Vercel, Netlify
 
-I'm full time developer. Please contact me at panda95718@gmail.com
+I'm full time developer. Please contact me at jamesryo310@gmail.com
 
 <a href="https://app.daily.dev/kogutstt2"><img align="right" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSUTkOMMxAzpXYUG-r4lzXljg1lY41IfDoUA&usqp=CAU" height="320" style="max-width: 100%; visibility: visible; display: inline-block;" data-xblocker="passed" data-target="animated-image.originalImage"></a>
 
